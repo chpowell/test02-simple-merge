@@ -9,6 +9,6 @@ public class Main {
         System.out.println("Feature Branch: added second message");
         System.out.println("Feature Branch: added third message");
         System.out.println("Chris added this line");
-
+        System.out.println("Chris added this line - Mary is now part of the team.");
     }
 }
