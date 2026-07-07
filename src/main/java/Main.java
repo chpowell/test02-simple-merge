@@ -1,7 +1,4 @@
-/*
- * test02-simple-merge
- * Git branching demonstration.
- */
+package ca.eprotege.learning;
 
 public class Main {
     public static void main(String[] args) {
